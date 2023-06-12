@@ -7,7 +7,7 @@
 <img src='./sample.svg'>
 <details><summary>HTML/Markdown</summary>
   
-  ``` Html
+  ``` html
   <img src='./sample.svg'>
   ```
   
@@ -28,12 +28,12 @@ Inline math: $e^{i\pi}=-1$
 </details>
 
 #### Math block
-$$\int_0^\infty \text{This is an indefinite intagral}$$
+$$\int_0^\infty \text{This is an improper intagral}$$
 <details>
   <summary>TeX code</summary>
   
   ``` TeX
-  $$\int_0^\infty \text{This is an indefinite intagral}$$
+  $$\int_0^\infty \text{This is an improper intagral}$$
   ```
   
 </details>
