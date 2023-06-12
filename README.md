@@ -1,4 +1,4 @@
-# orign-only-example
+# origin-only-example
 
 
 ## SVG!
