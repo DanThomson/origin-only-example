@@ -1,7 +1,24 @@
 # orign-only-test
 
-## Second heading
-
+## Second heading, aka the first h2; mathjax
+ 
 $e^{i\pi}=-1$
 
-$$\int_0^\inf$$
+$$\int_0^\infty \text{This is an indefinite intagral}$$
+
+## Second h2; SVG!
+
+<svg width="325" height="325" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 80 80
+           A 45 45, 0,             0,             0,         125 125
+           L 125 80 Z" fill="green"/>
+  <path d="M 230 80
+           A 45 45, 0,             1,             0,         275 125
+           L 275 80 Z" fill="red"/>
+  <path d="M 80 230
+           A 45 45, 0,             0,             1,         125 275
+           L 125 230 Z" fill="purple"/>
+  <path d="M 230 230
+           A 45 45, 0,             1,             1,         275 275
+           L 275 230 Z" fill="blue"/>
+</svg>
