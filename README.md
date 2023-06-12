@@ -15,7 +15,7 @@ $$\int_0^\infty \text{This is an indefinite intagral}$$
 
 #### Trying to get inline svg to work
 {::nomarkdown}
-<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="250">
   <rect x="10" y="10" width="30" height="30" fill="transparent" stroke="black" stroke-width="5"/>
 </svg>
 {:/}
