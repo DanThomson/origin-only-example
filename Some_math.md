@@ -1,5 +1,7 @@
 #### Problem:
-$y = x^2 \cdot \cos^4(x)$Find ${d y \over d x}$
+$$y = x^2 \cdot \cos^4(x)$$
+
+$$\text{Find }{d y \over d x}$$
 
 <hr>
 
@@ -29,4 +31,6 @@ $$\dot{g}(x) = \text{We need the chain rule now}$$
 
 #### So I would write out the chain rule
 
-$$ {dy \over dx} $$
+$$
+{dy \over dx} = {dy \over du} \cdot {du \over dx}
+$$
